@@ -156,7 +156,7 @@ Final Score: You 1 - 1 Bot (Draws: 1)
 ## Technical Implementation
 
 - **SDK**: Google ADK (`google-genai`)
-- **Model**: `gemini-2.0-flash-exp`
+- **Model**: `gemini-2.5-flash-preview-09-2025`
 - **State Management**: Python dataclasses
 - **Tool Calling**: Manual mode with explicit function execution
 - **Error Handling**: Graceful handling of invalid inputs (no crashes)
